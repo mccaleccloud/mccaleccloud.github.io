@@ -6,7 +6,7 @@ We are in FIRST East Village. The address is:
 Calgary AB, T2G 1E5
 ```
 Click the following links to jump to:
-- [Apple Maps](https://maps.apple.com/?address=550%20Riverfront%20Ave%20SE,%20Calgary%20AB%20T2G%201E5,%20Canada&ll=51.047212,-114.050403&q=550%20Riverfront%20Ave%20SE&_ext=EiYpspGQ3neFSUAx5HmI266DXMA5MGe2Op6GSUBBgtV5v8SCXMBQBA%3D%3D&t=m) *only available on Apple iOs*
+- [Apple Maps](https://maps.apple.com/?address=550%20Riverfront%20Ave%20SE,%20Calgary%20AB%20T2G%201E5,%20Canada&ll=51.047212,-114.050403&q=550%20Riverfront%20Ave%20SE&_ext=EiYpspGQ3neFSUAx5HmI266DXMA5MGe2Op6GSUBBgtV5v8SCXMBQBA%3D%3D&t=m) *only available on Apple iOS*
 - [Google Maps](https://goo.gl/maps/2HtvvTqPMnPAmeNf8)
 
 We are unit number 711, and the buzzer number is 0711. The front door to access the buzzer is on the NE corner of `6th Ave SE and Riverfront Ave`. You will see the signs for FIRST.
