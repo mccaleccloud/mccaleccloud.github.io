@@ -1,0 +1,6 @@
+# Alec's Bio
+Alec has over ten years experience working in the IT field. His background is in web application development and application architecture. Alec has worked extensively with the Microsoft enterprise suite of products and has focused primarily on their cloud offerings for the last five years. He brings a wealth of hands on technical experience, combined with significant IT leadership, project and product management skills.
+
+Alec was born in Calgary and originally worked in technical theatre and event production. He transitioned to IT working in web development and design, as well as marketing and communications. In 2011 Alec joined the team at West Island College and assumed the role of CIO in 2013. Alec has spent the last four years in Victoria BC working at itgroove Professional Services as a Consultant, Team Lead and Managing Consultant. This position afforded him the opportunity to work with a wide breadth of clients including government, private sector and not for profit organizations on large scale enterprise projects.
+
+Alec relocated back to Calgary in December 2018 and is excited to embark on the next chapter of his career as CEO and Principal at mccalec.cloud, a consultancy which he founded.
