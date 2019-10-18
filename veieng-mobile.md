@@ -9,7 +9,7 @@ Please open these instructions **directly on your mobile device** and follow the
 These steps are only necessary as this app is in "beta" (meaning it hasn't been released yet). Once finalized, the app will be available for users to download from the app store directly with no additional steps.
 
 ## Apple (iOS - iPhone or iPad)
-1. Download the Apple TestFlight App to your device by clicking [here](https://apps.apple.com/ca/app/testflight/)
+1. Download the Apple TestFlight App to your device by clicking [here](https://apps.apple.com/ca/app/testflight/id899247664)
 2. Open TestFlight and accept the terms and services agreement and enable notifications. 
 3. Return to this page and click [here](https://testflight.apple.com/join/nUxXfD6h)
 4. TestFlight should open and given the option to install the Vanguard Mobile app to your device. Click install and then when installation is finished you can open the app either from TestFlight or directly from your devices home screen. 
