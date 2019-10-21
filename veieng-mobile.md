@@ -31,4 +31,4 @@ Add the following test project:
 
 Please note: There are multiple ways to have contractors add projects. They can click a link, scan a QR code or type the info in manually as per the above.
 
-If you would like to see the results of what you have submitted, please see this project site: https://vanguarddev.sharepoint.com/sites/prj-projectsite25/
+If you would like to see the results of what you have submitted, please see this project site: [https://vanguarddev.sharepoint.com/sites/prj-projectsite25/](https://vanguarddev.sharepoint.com/sites/prj-projectsite25/)
